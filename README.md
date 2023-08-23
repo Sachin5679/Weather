@@ -5,6 +5,7 @@ A weather app built on Vite using ReactJS, and TailwindCSS
 The current version is fairly simple. When a user searches up a particular city, it fetches weather data from Openweathermap API, and displays it.
 
 Screenshot 1:
+
 ![image](https://github.com/Sachin5679/Weather/assets/93666921/3bb53805-454c-4440-afde-b49dade0416e)
 
 Screenshot 2:
