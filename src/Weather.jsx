@@ -5,7 +5,6 @@ const Weather = () => {
     const [weatherData, setWeatherData] = useState(null);
     const [city, setCity] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    // const url = `https://api.openweathermap.org/data/2.5/weather?q=Dubai&appid=02120766642928fcd2382852eb1eac7a`;
     const apiKey = import.meta.env.VITE_OPENWEATHER_API_KEY;
 
     const handleSearch = async (e) => {
